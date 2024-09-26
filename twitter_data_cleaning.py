@@ -1,7 +1,9 @@
 import csv
 from google.colab import files
+# Upload the file 
 uploaded = files.upload()
 
+#uploaded file named is'correct_twitter_201904.tsv'
 input_file = 'correct_twitter_201904.tsv'
 output_file = 'trimmed_twitter_201904.csv'
 
@@ -31,8 +33,10 @@ with open(input_file, 'r', newline='') as input_tsv, open(output_file, 'w', newl
     reader = csv.reader(input_tsv, delimiter='\t')
     writer = csv.writer(output_csv, delimiter=',')
   
+    # header row
     header_row = next(reader)
   
+    # Determine indices of necessary columns
     necessary_column_indices = [header_row.index(column) for column in necessary_columns]
   
     writer.writerow([header_row[index] for index in necessary_column_indices])
@@ -43,4 +47,5 @@ with open(input_file, 'r', newline='') as input_tsv, open(output_file, 'w', newl
 
 print("Trimming complete")
 
+# Download the trimmed CSV file
 files.download(output_file)
