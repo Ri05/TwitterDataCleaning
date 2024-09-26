@@ -40,6 +40,7 @@ Connect to PostgreSQL: Copy and Run each query
 You can view the output of the six additional SQL queries related to the project tasks.
 Each query output is provided in separate files on GitHub.
 You can access them through the links below:
+
 1.**Output of Query 1** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer1.csv]
 2.**Output of Query 2** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer2.csv]
 3.**Output of Query 3** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer3.csv]
