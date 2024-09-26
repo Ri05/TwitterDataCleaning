@@ -17,21 +17,34 @@ Ensure you have Python and PostgreSQL installed on your system.
 
 ## Step 3: Clean the Data Using Google Colab
 
-## Upload file if not already done
-uploaded = files.upload()
-
-## Rest of your cleaning script...
+Open the Google colab notbook: You can access the data cleaning code directly from the following GitHub file:
+[Data cleaning code on GitHub]
+(https://github.com/Ri05/TwitterDataCleaning/blob/main/twitter_data_cleaning.py)
 
 ## Step 4: Download Cleaned Data
 Download the cleaned trimmed_twitter_201904.csv file from Google Colab.
+https://github.com/Ri05/TwitterDataCleaning/blob/main/trimmed_twitter_201904.csv
 
-## Step 5: Create Database and Table
-Run the SQL script to create the table:
-
-## Step 6: Load Data into Database
+## Step 5: Load Data into Database
 Load the cleaned data into PostgreSQL:
 
+## Step 6: Create Database and Table
+Run the SQL script: You can find the SQL code to create the database and table, along with six additional SQL queries task which was specified in the project, in the following file:
+[Create Database and Additional SQL Queries on GitHub]
+(https://github.com/Ri05/TwitterDataCleaning/blob/main/TweetDataTable.sql)
+
 ## Step 7: Execute Queries
-Run queries using either SQL directly or through Python scripts:
+Connect to PostgreSQL: Copy and Run each query
+
+## Step 8: View Query Outputs
+You can view the output of the six additional SQL queries related to the project tasks.
+Each query output is provided in separate files on GitHub.
+You can access them through the links below:
+1.**Output of Query 1** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer1.csv]
+2.**Output of Query 2** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer2.csv]
+3.**Output of Query 3** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer3.csv]
+4.**Output of Query 4** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer4.csv]
+5.**Output of Query 5** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer5.csv]
+6.**Output of Query 6** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer6.csv]
 
 
