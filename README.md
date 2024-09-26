@@ -1,4 +1,4 @@
-## Twitter Data Cleaning
+# Twitter Data Cleaning
 
 Simple Twitter Data Cleaning and Analysis Using Python in Google Colab and PostgreSQL
 This repository contains scripts and instructions for cleaning and analyzing a dataset of Twitter data. The project involves data preprocessing using Python in Google Colab, importing the cleaned data into a PostgreSQL database, and executing SQL queries to generate insights.
@@ -9,7 +9,7 @@ This repository contains scripts and instructions for cleaning and analyzing a d
 sh
 Download
 Copy code
-git clone https://github.com/your-username/TwitterCleaningData.git
+git clone https://github.com/Ri05/TwitterDataCleaning.git
 
 # Step 2: Install Dependencies
 
