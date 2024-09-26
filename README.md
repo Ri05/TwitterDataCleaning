@@ -6,9 +6,13 @@ This repository contains scripts and instructions for cleaning and analyzing a d
 This repository contains scripts and instructions for cleaning and analyzing a dataset of Twitter data. The project involves data preprocessing using Python in Google Colab, importing the cleaned data into a PostgreSQL database, and executing SQL queries to generate insights.
 
 Skills Demonstrated
+
 **Data Preprocessing**: Using Python to clean and trim the Twitter data.
+
 **Google Colab**: Utilizing Google Colab for data preprocessing.
+
 **PostgreSQL Database Management**: Creating tables and importing data into a PostgreSQL database.
+
 **SQL Querying**: Executing SQL queries to derive insights from the cleaned data.
 
 ## To Simply Run This Project:
