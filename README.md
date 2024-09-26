@@ -42,9 +42,14 @@ Each query output is provided in separate files on GitHub.
 You can access them through the links below:
 
 1.**Output of Query 1** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer1.csv]
+
 2.**Output of Query 2** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer2.csv]
+
 3.**Output of Query 3** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer3.csv]
+
 4.**Output of Query 4** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer4.csv]
+
 5.**Output of Query 5** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer5.csv]
+
 6.**Output of Query 6** [https://github.com/Ri05/TwitterDataCleaning/blob/main/tweet%20answer6.csv]
 
