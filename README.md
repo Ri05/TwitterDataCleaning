@@ -19,7 +19,7 @@ Ensure you have Python and PostgreSQL installed on your system.
 
 Open the Google colab notbook: You can access the data cleaning code directly from the following GitHub file:
 [Data cleaning code on GitHub]
-(https://github.com/Ri05/TwitterDataCleaning/blob/main/twitter_data_cleaning.py)
+( https://github.com/Ri05/TwitterDataCleaning/blob/main/twitter_data_cleaning.py )
 
 ## Step 4: Download Cleaned Data
 Download the cleaned trimmed_twitter_201904.csv file from Google Colab.
